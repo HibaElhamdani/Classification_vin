@@ -1,0 +1,39 @@
+# Environnement virtuel Python
+wine_env/
+venv/
+env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CatBoost training artifacts
+catboost_info/
+
+# Fichiers de modèles (optionnel - décommenter si trop volumineux)
+# *.pkl
+# *.joblib
+# *.h5
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Variables d'environnement
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
