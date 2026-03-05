@@ -112,13 +112,3 @@ L’application permet :
 
 ## Auteurs
 - **Hiba El Hamdani**
-- **Nawal Ait-Tami**
-
----
-
-## Encadrement
-Projet réalisé sous l’encadrement de :  
-**M. Abdelghani Ghazdali**
-
-École Nationale des Sciences Appliquées de Khouribga  
-Année universitaire : 2025 – 2026
